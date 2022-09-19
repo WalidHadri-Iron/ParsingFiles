@@ -1,1 +1,2 @@
 ## Parsing word files and generating pdf files
+The goal of the project is given multiple doc files, we create a parser that takes each doc file and extract for each year (year is indicated in the doc file) the questions and the answers and put them seperately in two folders and into seperate files for each year. To have a clear have a look at the doc file which is a possible input to the created parser and the output folder will give you an idea about the structure.
